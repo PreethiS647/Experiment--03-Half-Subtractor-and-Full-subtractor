@@ -92,6 +92,7 @@ Half subtracter:
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/755e422b-651d-435a-8daa-bb4ea52fd054)
 
 Full subtracter:
+
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/82461bd9-9824-449e-9b38-84245efe5d80)
 
 ## Result:
