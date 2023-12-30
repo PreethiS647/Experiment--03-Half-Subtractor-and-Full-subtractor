@@ -60,28 +60,35 @@ Output Waveform.
 
 ## Program:
 Half subtracter:
+
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/51fa0631-85a3-4f72-9ab2-dab95fcb0470)
 
 Full subtracter:
+
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/a18050b8-bad4-4757-a7c4-bc38d52880ed)
 
 ## Truthtable
 Half subtracter:
+
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/79a35f8f-7492-4dab-baa6-8a0bacd4a8f9)
 
 Full subtracter:
+
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/9ac83752-360a-43f8-82c5-1a25dc51a297)
 
 
 ##  RTL realization
 Half subtracter:
+
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/9fde38f0-ed1b-4720-960e-e061cb3c16c0)
 
 Full subtracter:
+
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/47eaeedb-3ebb-424c-99f7-733584371bfd)
 
 ## Timing diagram 
 Half subtracter:
+
 ![image](https://github.com/PreethiS647/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147313372/755e422b-651d-435a-8daa-bb4ea52fd054)
 
 Full subtracter:
